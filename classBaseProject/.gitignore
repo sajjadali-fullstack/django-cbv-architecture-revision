@@ -1,0 +1,7 @@
+# Ignore local SQLite database
+db.sqlite3
+documentation.txt
+
+# Ignore Python compiled files
+**/__pycache__/
+*.pyc
